@@ -1,2 +1,3 @@
 # MLP-70
-Kubernets demo 
+- Kubernets demo
+- code under maintenance
